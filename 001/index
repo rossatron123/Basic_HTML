@@ -12,6 +12,17 @@
 
   <h1>Heading one</h1>
 
+  <!-- p{Here is but one example of emmet} -->
+
+
+<h1>Heading 01</h1>
+<h2>Heading 02</h2>
+<h3>Heading 03</h3>
+<h4>Heading 04</h4>
+<h5>Heading 05</h5>
+<h6>Heading 06</h6>
+
+
   <ul>
     <li>one</li>
     <li>Two</li>
