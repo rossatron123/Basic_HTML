@@ -1,0 +1,33 @@
+html{
+background-color:#00539f;
+}
+
+body{
+background-color:#00C957;
+border: 5px solid black;
+width:50%;
+margin:0 auto;
+
+}
+
+img{
+display: block;
+margin:0 auto;
+border-radius:100%;
+border: 15px ridge gold;
+}
+
+h1{
+  color:blue;
+  margin: 10px 20px;
+}
+
+#secondary{
+color:red;
+margin: 10px 20px;
+}
+
+p{
+  margin: 10px 20px;
+  font-family: sans-serif;
+}
