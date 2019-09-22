@@ -1,0 +1,16 @@
+*{
+border: 2px dashed green;
+}
+
+html{
+border:2px dashed blue;
+}
+
+body{
+border:2px dashed red;
+}
+
+div{
+border: 2px dashed yellow;
+height:200px;
+}
